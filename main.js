@@ -9,7 +9,7 @@ var Position = 0;
 var UpdatePos = true;
 var Move = true;
 var MoveDirectonLeft = false;
-var MoveWeit = 1;
+var MoveWeit = 0.4;
 var MoveSpeed = 0.5;
 
 
